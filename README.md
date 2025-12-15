@@ -23,7 +23,6 @@ npm run dev
 - `src/components/TodoList.vue` — daftar dengan tautan detail dan aksi.
 
 ## Loom
-Pengembangan Aplikasi To-Do List dengan Fitur Baru 📅 - Watch Video
 <div>
     <a href="https://www.loom.com/share/4768ad9da093423c8241223931f9bdeb">
       <p>Pengembangan Aplikasi To-Do List dengan Fitur Baru 📅 - Watch Video</p>
