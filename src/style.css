@@ -1,0 +1,32 @@
+:root {
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #213547;
+  background-color: #f7f9fb;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 24px;
+  background: radial-gradient(circle at 20% 20%, #ffe4ec 0, transparent 30%),
+    radial-gradient(circle at 80% 0, #d8ecff 0, transparent 25%),
+    linear-gradient(180deg, #f7f9fb 0, #eef3f9 100%);
+}
+
+#app {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
